@@ -1,0 +1,62 @@
+.h{
+    background: linear-gradient(#FF4029,#F02228);
+    height: 800px;
+}
+.fourp{
+    color: white;
+    display: flex;
+    gap: 30px;
+
+}
+.user{
+    display: flex;
+    gap: 20px;
+}
+.head{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+button{
+    background-color: #F02228;
+    border: 3px solid white;
+    border-radius: 20px;
+    padding: 15px;
+    width: 200px;
+    color: white;
+    font-weight: 700;
+}
+.fbp{
+    width: 500px;
+    font-size: 60px;
+    font-weight: 700;
+    color: white;
+}
+.sp{
+    color: white;
+    font-size: 16px;
+    font-weight: 600;
+    width: 500px;
+}
+.gen{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    position: relative;
+    z-index: 2;
+}
+.abs1{
+    position: absolute;
+    top: 70px;
+}
+.abs2{
+    position: absolute;
+    top: 470px;
+}
+.first{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 100px;
+    margin-bottom: 30px;
+}
