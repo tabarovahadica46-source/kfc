@@ -126,3 +126,49 @@ button{
     position: absolute;
     z-index: 1;
 }
+.fourth-section{
+    background: #FBEEE4;
+    height: 890px;
+    
+    padding-top: 200px;
+}
+.sq1{
+    width: 400px;
+    height: 200px;
+    background-color: white;
+padding: 10px;
+  border-radius: 10px;
+  margin-top: 120px;
+}
+.top{
+    display: flex;
+    margin-top: -50px;
+    gap: 60px;
+   
+}
+.sq2{
+    width: 300px;
+    height: 400px;
+    background-color: white;
+padding: 10px;
+  border-radius: 10px;
+  margin-top: -40px;
+  margin-right: 20px;
+}
+.sq3{
+    width: 400px;
+    height: 200px;
+    background-color: white;
+padding: 10px;
+  border-radius: 10px;
+  margin-top: 120px;
+}
+.left{
+    display: flex;
+    margin-top: -80px;
+    gap: 10px;
+}
+.four{
+    width: 50%;
+    margin: auto;
+}
