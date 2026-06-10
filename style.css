@@ -103,3 +103,26 @@ button{
     align-items: center;
     margin-top: 50px;
 }
+.third-section{
+    background-color: #FFB737;
+    height: 320px;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+   
+
+}
+.tel{
+    position: absolute;
+   left: 200px;
+   z-index: 0;
+}
+.telephone{
+    position: relative;
+    top: -40px;
+    
+}
+.tel1{
+    position: absolute;
+    z-index: 1;
+}
